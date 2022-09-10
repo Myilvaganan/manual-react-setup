@@ -11,4 +11,4 @@ Creating React App without CRA
 	
 - **Configure babel**	create babelrc file
 	
-- **Configure Webpack**	create webpack.config.js![image](https://user-images.githubusercontent.com/65181847/189466774-f1d2a68b-7650-4240-9d2b-aa8982b5861a.png)
+- **Configure Webpack**	create webpack.config.js
